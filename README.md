@@ -1,16 +1,11 @@
 # shopping_app
 
-A new Flutter project.
+![SC1](https://user-images.githubusercontent.com/85957655/193889519-f1735ec9-7905-4b98-8823-28bf8d367035.png)
 
-## Getting Started
+![SC2](https://user-images.githubusercontent.com/85957655/193889552-c3c57a75-93f0-4905-95b7-db14101fb92b.png)
 
-This project is a starting point for a Flutter application.
+![SC3](https://user-images.githubusercontent.com/85957655/193889600-c6ab38a1-9891-4ca0-97e6-775ef138167e.png)
 
-A few resources to get you started if this is your first Flutter project:
+![SC4](https://user-images.githubusercontent.com/85957655/193889626-2ee9608d-3d05-40a7-be4b-95db17f22b76.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SC5](https://user-images.githubusercontent.com/85957655/193889629-d911d54f-992c-469b-8c29-d223fc401bc0.png)
